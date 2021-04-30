@@ -1,4 +1,4 @@
-# Img Bank [Tec North -  Roberlan Carvalho](https://tecnorth.com.br/)
+# Img Bank - By: [Tec North -  Roberlan Carvalho](https://tecnorth.com.br/)
 
 ![](/img-bank.png)
 
